@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+opencv-python-headless
+dlib
+numpy
+pandas
+joblib
+scikit-learn
