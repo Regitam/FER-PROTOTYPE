@@ -2,4 +2,4 @@ cmake
 build-essential
 libopenblas-dev
 liblapack-dev
-libgl1-mesa-glx
+libgl1
